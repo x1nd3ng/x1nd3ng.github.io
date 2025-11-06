@@ -83,7 +83,7 @@ toc_sticky: true
 
 [25] **Deng, Xin**; Chen, Yi-Xiang; Wang, Wenzhong; Li, Yonghui; Xiao, Zicong; Wu, Zhongqing. (2023) “Dehydration of Subducting Hydrated Mantle indicated by High δ<sup>26</sup>Mg Values in Arc Lavas”, **_Habitable Earth — Geoscience for Sustainability_**, Qingdao, China.
 
-[24] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2023) “Combining the high P–T elasticity of lower mantle minerals with seismic tomography to constrain the 3D composition and temperature structure of the lower mantle”, **_The 9th “From Atom to Earth” Symposium on High-pressure Science_**, Chengdu, China. <span style="color:#E64A19; font-weight:bold;">Best Student Presentation Award — Hongsen Award</span>
+[24] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2023) “Combining the high P–T elasticity of lower mantle minerals with seismic tomography to constrain the 3D composition and temperature structure of the lower mantle”, **_The 9th “From Atom to Earth” Symposium on High-pressure Science_**, Chengdu, China. (<span style="color:#E64A19; font-weight:bold;">Best Student Presentation Award — Hongsen Award</span>)
 
 [23] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2023) “Construction of 3D Composition and Temperature Structure of the Lower Mantle”, **_The 2nd Conference of “China Seismological Reference Model”_**, Hefei, China. (poster)
 
