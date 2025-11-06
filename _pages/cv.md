@@ -25,6 +25,7 @@ redirect_from:
 
 <div style="margin-left:1em;">
 2019–2024 &nbsp;&nbsp; <strong>Ph.D.<strong>, School of Earth and Space Sciences, University of Science and Technology of China (USTC)
+
 2015–2019 &nbsp;&nbsp; <strong>B.Sc.<strong>, School of the Gifted Young, University of Science and Technology of China (USTC)
 </div>
 
