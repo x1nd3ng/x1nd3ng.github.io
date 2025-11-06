@@ -16,7 +16,7 @@ toc_sticky: true
 
 <div style="font-style: italic; margin-bottom: 12px; font-size: 16px; color: #5a7d9a;">
   This page lists my publications and conference presentations.<br>
-  Thank you to all my collaborators for their inspiring contributions along the way!🙌<br>
+  Thank you to all my collaborators for their inspiring contributions along the way! 🙌<br>
   For citation metrics, please visit my Google Scholar profile above.
 </div>
 
