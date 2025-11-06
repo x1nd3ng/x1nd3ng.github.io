@@ -1,12 +1,16 @@
 ---
 permalink: /
+title: "About me"
+excerpt: "About me"
+show_title: false
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi there, I’m Xin Deng👋 {:.no_toc style="font-size:2.2rem; line-height:1.25; margin-bottom:0.25rem;"}
+
+# Hi there, I’m Xin Deng👋
 
 **Welcome to my page!** <br>
 
