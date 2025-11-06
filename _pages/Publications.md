@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications"
+title: "📚 Publications"
 permalink: /publications/
 author_profile: true
 toc: true
@@ -11,13 +11,13 @@ toc_sticky: true
    href="https://scholar.google.com/citations?user=qShECe4AAAAJ" 
    target="_blank" 
    rel="noopener">
-  🧠 View on Google Scholar
+  🎓 View on Google Scholar
 </a>
 
 <div style="font-style: italic; margin-bottom: 12px; font-size: 16px; color: #5a7d9a;">
   This page lists my publications and conference presentations.<br>
-  Thank you to all my collaborators for their inspiring contributions along the way! 🙌<br>
-  For citation metrics, please visit my Google Scholar profile above.
+  For citation metrics, please visit my Google Scholar profile above.<br>
+  <strong style="color:#3B6EA5;">Thank you to all my collaborators for their inspiring contributions along the way!</strong> 🙌
 </div>
 
 ---
