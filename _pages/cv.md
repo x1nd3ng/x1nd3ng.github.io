@@ -73,7 +73,7 @@ redirect_from:
 
 ## Teaching Experience
 
-**Teaching Assistant at University of Science and Technology of China**
+**Teaching Fellowship at University of Science and Technology of China**
 
 <div style="margin-left:1em;">
   <p><strong>2021–2023</strong> &nbsp;&nbsp; GEPH6411P — Solid Mechanics</p>
