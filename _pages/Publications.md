@@ -7,11 +7,10 @@ toc: true
 toc_sticky: true
 ---
 
-<a class="btn btn--primary btn--large" 
+<a class="btn btn--info btn--large" 
    href="https://scholar.google.com/citations?user=qShECe4AAAAJ" 
    target="_blank" 
-   rel="noopener" 
-   style="margin-bottom: 1em;">
+   rel="noopener">
   🧠 View on Google Scholar
 </a>
 
