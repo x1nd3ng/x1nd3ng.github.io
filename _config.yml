@@ -251,6 +251,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _pages
+  - scope:
+      path: "about.md"
+      type: pages
+    values:
+      seo_title: "Xin Deng"
+      show_title: false
   # _teaching
   - scope:
       path: ""
