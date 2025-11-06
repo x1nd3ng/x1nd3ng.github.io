@@ -16,7 +16,7 @@ redirect_from:
 ## Appointments
 
 <div style="margin-left:1em;">
-2024–2026 &nbsp;&nbsp; <strong>Carnegie Postdoctoral Fellow</strong>, Earth and Planets Laboratory, Carnegie Institution for Science
+  <p>2024–2026 &nbsp;&nbsp; <strong>Carnegie Postdoctoral Fellow</strong>, Earth and Planets Laboratory, Carnegie Science</p>
 </div>
 
 ---
@@ -24,8 +24,8 @@ redirect_from:
 ## Education
 
 <div style="margin-left:1em;">
-2019–2024 &nbsp;&nbsp; <strong>Ph.D.</strong>, School of Earth and Space Sciences, University of Science and Technology of China<br><br>
-2015–2019 &nbsp;&nbsp; <strong>B.Sc.</strong>, School of the Gifted Young, University of Science and Technology of China
+  <p>2019–2024 &nbsp;&nbsp; <strong>Ph.D.</strong>, School of Earth and Space Sciences, University of Science and Technology of China (USTC)</p>
+  <p>2015–2019 &nbsp;&nbsp; <strong>B.Sc.</strong>, School of the Gifted Young, University of Science and Technology of China (USTC)</p>
 </div>
 
 ---
@@ -83,4 +83,3 @@ redirect_from:
 
 - <strong>Peer review</strong> for Communications Earth &amp; Environment (1)  
 - <strong>Proposal reviewer</strong> (non-panelist) for NSF (1)
-
