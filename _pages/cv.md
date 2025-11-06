@@ -9,13 +9,11 @@ redirect_from:
   - /resume
 ---
 
-<p align="center">
-  <a class="btn btn--outline btn--large"
-     href="../files/CV_xindeng.pdf"
-     target="_blank" rel="noopener">
-    📄 Download my full CV (PDF)
-  </a>
-</p>
+<a class="btn btn--info btn--large" 
+   href="../files/CV_xindeng.pdf"
+   target="_blank" rel="noopener">
+  📄 Download my full CV (PDF)
+</a>
 
 {% include base_path %}
 
