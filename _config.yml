@@ -24,11 +24,11 @@ repository               : "x1nd3ng/x1nd3ng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "邓忻 Xin Deng"
+  name             : "<strong>邓忻 Xin Deng<strong>"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc at Carnegie"
+  bio              : "<strong>Postdoc at Carnegie<strong>"
   location         : "Washington, DC"
-  employer         : "EPL, Carnegie Institution for Science"
+  employer         : "EPL, Carnegie Science"
   uri              : # URL
   email            : "xdeng@carnegiescience.edu" 
 
