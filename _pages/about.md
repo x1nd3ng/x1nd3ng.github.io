@@ -10,7 +10,6 @@ redirect_from:
 
 # Hi there, I’m Xin Deng 👋 
 
-
 **Welcome to my page!**
 
 I am currently a **Carnegie Postdoctoral Fellow** at the [**Earth and Planets Laboratory, Carnegie Institution for Science**](https://carnegiescience.edu/epl), where I investigate the physical and chemical behavior of planetary materials under extreme conditions using *ab initio* and machine-learning-based atomistic simulations. My research aims to understand how Earth and other rocky planets formed, differentiated, and evolved through time.
