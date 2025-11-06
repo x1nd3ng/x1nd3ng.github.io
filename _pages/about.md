@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<strong>Welcome to my website!</strong>
 
-I am currently a Carnegie Postdoctoral Fellow at the Earth and Planets Laboratory, [Carnegie Institution for Science](https://carnegiescience.edu). My research focuses on investigating the physical and chemical behavior of planetary materials under extreme conditions using ab initio and machine-learning-based atomistic simulations to understand how Earth and other planetary bodies formed, differentiated, and evolved.
+**Welcome to my page!**
+I am currently working as a Carnegie Postdoctoral Fellow at the Earth and Planets Laboratory, [Carnegie Institution for Science](https://carnegiescience.edu), where I investigate the physical and chemical behavior of planetary materials under extreme conditions using *ab initio* and machine-learning-based atomistic simulations. My research aims to understand how Earth and other rocky planets formed, differentiated, and evolved through time.
 
+Before joining Carnegie, I earned my Ph.D. in Geophysics at the School of Earth and Space Sciences, University of Science and Technology of China (USTC) under Prof. Zhongqing Wu, where I studied the elasticity and isotope fractionation of deep-mantle minerals with *ab initio* calculations. I also completed my B.S. at the School of the Gifted Young, University of Science and Technology of China.
 
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Thanks for stopping by — and feel free to reach out if you’d like to chat about deep Earth, planetary evolution, or ideas for collaboration!
 
 A data-driven personal website
 ======
