@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# Hi there, I’m Xin Deng👋
+# Hi there, I’m Xin Deng 👋
 
 **Welcome to my page!** <br>
 
