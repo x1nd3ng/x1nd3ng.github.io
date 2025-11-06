@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "<strong>Carnegie Postdoctoral Fellow</strong><br>"
   location         : "Washington, DC"
-  employer         : "EPL, Carnegie Science"
+  employer         : "<a href='https://carnegiescience.edu/epl' target='_blank' style='text-decoration:none;'>EPL, Carnegie Science</a>"
   uri              : # URL
-  email            : "xdeng@carnegiescience.edu" 
+  email            : "xdeng@carnegiescience.edu"
 
   # Academic websites
   academia         : # URL
