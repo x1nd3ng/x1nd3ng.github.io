@@ -51,7 +51,7 @@ redirect_from:
 ## Honors and Awards
 
 <div style="margin-left:1em;">
-  <p><strong>2024</strong> &nbsp;&nbsp; Carnegie Postdoctoral Fellowship (Earth and Planets Lab, Carnegie Science)</p>
+  <p><strong>2024</strong> &nbsp;&nbsp; Carnegie Postdoctoral Fellowship (Earth and Planets Laboratory, Carnegie Science)</p>
   <p><strong>2024</strong> &nbsp;&nbsp; Excellent Graduation Thesis Award (USTC)</p>
   <p><strong>2024</strong> &nbsp;&nbsp; Excellent Graduate of Anhui Province Ordinary Colleges and Universities (Anhui Province)</p>
   <p><strong>2024</strong> &nbsp;&nbsp; Outstanding Graduate of University of Science and Technology of China (USTC)</p>
