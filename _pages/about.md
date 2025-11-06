@@ -1,7 +1,7 @@
+
 ---
 permalink: /
 title: "Hi there, I'm Xin Deng👋"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
