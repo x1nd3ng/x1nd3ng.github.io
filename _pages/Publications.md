@@ -91,7 +91,7 @@ toc_sticky: true
 
 [21] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2023) “Compositional and Thermal State of the Lower Mantle from Joint 3D Inversion with Seismic tomography and Mineral Elasticity”, **_2023 IPACES Annual Meeting_**, Hefei, China. (poster / <span style="color:#E64A19; font-weight:bold;">Poster Presentation Award — 2nd Prize</span>)
 
-[20] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2023) “Compositional and Thermal State of the Lower Mantle from Joint 3D Inversion with Seismic Tomography and Mineral Elasticity”, **_Japan Geoscience Union Meeting 2023_**, Chiba, Japan. (poster / <span style="color:#E64A19; font-weight:bold;">Outstanding Student Presentation Award</span>)
+[20] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2023) “Compositional and Thermal State of the Lower Mantle from Joint 3D Inversion with Seismic Tomography and Mineral Elasticity”, **_Japan Geoscience Union Meeting 2023_**, Chiba, Japan. (poster / [<span style="color:#E64A19; font-weight:bold;">Outstanding Student Presentation Award</span>](https://www.jpgu.org/en/ospa/2023meeting/))
 
 [19] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2023) “Inversion of 3D Thermo-Chemical Structure of the Lower Mantle using Seismic Tomography and Elasticity of Lower-mantle Minerals at High Pressure and Temperature Conditions”, **_The 21st China High-Pressure Science Conference_**, Dalian, China.
 
@@ -103,7 +103,7 @@ toc_sticky: true
 
 [15] **Deng, Xin**; Song, Jian; Qian, Wangsheng; Wu, Zhongqing. (2023) “Elasticity of Orthopyroxene at High P–T Conditions: Implications for the Metasomatism of Mantle Wedge by Siliceous Melts”, **_The 18th Annual Meeting of Chinese Society for Mineralogy Petrology and Geochemistry_**, Hefei, China.
 
-[14] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2022) “Compositional and Thermal State of the Lower Mantle from Joint 3D Inversion with Seismic Tomography and Mineral Elasticity”, **_AGU Fall Meeting 2022_**, Chicago, USA. (<span style="color:#E64A19; font-weight:bold;">Outstanding Student Presentation Award</span>)
+[14] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2022) “Compositional and Thermal State of the Lower Mantle from Joint 3D Inversion with Seismic Tomography and Mineral Elasticity”, **_AGU Fall Meeting 2022_**, Chicago, USA. ([<span style="color:#E64A19; font-weight:bold;">Outstanding Student Presentation Award</span>](https://www.agu.org/Learn-and-Develop/Learn/Student-Competitions/OSPA/OSPA-Winners/2022-OSPA-Winners))
 
 [13] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2022) “Compositional and Thermal State of the Lower Mantle from Joint 3D Inversion with Seismic Tomography and Mineral Elasticity”, **_Annual Meeting of Chinese Geoscience Union 2022/2021_**, Fuzhou, China.
 
