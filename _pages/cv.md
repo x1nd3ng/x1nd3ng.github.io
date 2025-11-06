@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "👨‍🔬 Curriculum Vitae"
+title: "Curriculum Vitae 👨‍🔬"
 permalink: /cv/
 author_profile: true
 toc: true
