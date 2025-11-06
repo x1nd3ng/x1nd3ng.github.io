@@ -12,7 +12,7 @@ toc_sticky: true
 </a>
 
 > This page lists my publications and conference presentations.  
-> For the most up-to-date list and citation metrics, please visit my Google Scholar profile above.
+> For the citation metrics, please visit my Google Scholar profile above.
 
 ---
 
