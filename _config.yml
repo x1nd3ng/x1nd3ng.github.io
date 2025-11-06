@@ -230,6 +230,8 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+titles_from_headings:
+  enabled: false
 
 # These settings control how pages and collections are included in the site
 defaults:
