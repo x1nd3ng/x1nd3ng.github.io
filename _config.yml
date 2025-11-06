@@ -22,7 +22,7 @@ repository               : "x1nd3ng/x1nd3ng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "XinDeng.png"
+  avatar           : "profile.png"
   name             : "<strong>邓忻 Xin Deng<strong>"
   pronouns         : # example: "she/her"  
   bio              : "<strong>Postdoc at Carnegie<strong>"
