@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I'm Xin Deng👋;"
+title: "Hi there, I'm Xin Deng👋"
 seo_title: "Xin Deng"
 author_profile: true
 redirect_from: 
