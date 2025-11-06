@@ -1,14 +1,12 @@
 ---
 permalink: /
 title: "Hi there, I'm Xin Deng👋"
-seo_title: "Xin Deng"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
 
 **Welcome to my page!** <br>
 
