@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **Welcome to my page!**
+
 I am currently working as a Carnegie Postdoctoral Fellow at the Earth and Planets Laboratory, [Carnegie Institution for Science](https://carnegiescience.edu), where I investigate the physical and chemical behavior of planetary materials under extreme conditions using *ab initio* and machine-learning-based atomistic simulations. My research aims to understand how Earth and other rocky planets formed, differentiated, and evolved through time.
 
 Before joining Carnegie, I earned my Ph.D. in Geophysics at the School of Earth and Space Sciences, University of Science and Technology of China (USTC) under Prof. Zhongqing Wu, where I studied the elasticity and isotope fractionation of deep-mantle minerals with *ab initio* calculations. I also completed my B.S. at the School of the Gifted Young, University of Science and Technology of China.
