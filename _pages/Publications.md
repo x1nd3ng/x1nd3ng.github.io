@@ -24,6 +24,8 @@ toc_sticky: true
 
 ## Articles — Submitted
 
+[20] Yuan, Ye; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. "SS Reflections or P-to-S Conversions? New Insight into the 1000-km Discontinuity", submitted to **_Nature Communications_**.
+
 [19] Zhang, Qiwei; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. “Sublithospheric diamond constraints on the state of deeply subducted slabs”, submitted to **_Science Advances_**.
 
 [18] Park, Doyoon; **Deng, Xin**; Deng, Jie. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, submitted to **_Physical Review B_**.
