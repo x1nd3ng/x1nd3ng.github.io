@@ -24,7 +24,9 @@ toc_sticky: true
 
 ## Articles — Submitted
 
-[20] Yuan, Ye; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. "SS Reflections or P-to-S Conversions? New Insight into the 1000-km Discontinuity", submitted to **_Nature Communications_**.
+[21] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. "Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity", submitted to **_Earth and Planetary Science Letters_**.
+
+[20] Yuan, Ye; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. "SS Reflections or P-to-S Conversions? New Insight into the 1000-km Discontinuity", submitted to **_Earth and Planetary Science Letters_**.
 
 [19] Zhang, Qiwei; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. “Sublithospheric diamond constraints on the state of deeply subducted slabs”, submitted to **_Science Advances_**.
 
