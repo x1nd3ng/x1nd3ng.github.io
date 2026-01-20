@@ -30,9 +30,9 @@ toc_sticky: true
 
 [19] Zhang, Qiwei*; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. “Sublithospheric diamond constraints on the state of deeply subducted slabs”, submitted to **_Science Advances_**.
 
-[18] Park, Doyoon; **Deng, Xin***; Deng, Jie*. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, submitted to **_Physical Review B_**.
+[18] Park, Doyoon; **Deng, Xin\***; Deng, Jie*. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, submitted to **_Physical Review B_**.
 
-[17] **Deng, Xin***; Deng, Jie*; Walter, Michael; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, submitted to **_Geophysical Research Letters_**.
+[17] **Deng, Xin\***; Deng, Jie*; Walter, Michael; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, submitted to **_Geophysical Research Letters_**.
 
 [16] Liu, Cong*; **Deng, Xin**; Cohen, Ronald E.* “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Science Advances_**.
 
