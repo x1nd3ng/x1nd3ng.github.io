@@ -26,49 +26,49 @@ toc_sticky: true
 
 [21] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. "Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity", submitted to **_Earth and Planetary Science Letters_**.
 
-[20] Yuan, Ye; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. "SS Reflections or P-to-S Conversions? New Insight into the 1000-km Discontinuity", submitted to **_Earth and Planetary Science Letters_**.
+[20] Yuan, Ye*; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. "SS Reflections or P-to-S Conversions? New Insight into the 1000-km Discontinuity", submitted to **_Earth and Planetary Science Letters_**.
 
-[19] Zhang, Qiwei; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. “Sublithospheric diamond constraints on the state of deeply subducted slabs”, submitted to **_Science Advances_**.
+[19] Zhang, Qiwei*; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. “Sublithospheric diamond constraints on the state of deeply subducted slabs”, submitted to **_Science Advances_**.
 
-[18] Park, Doyoon; **Deng, Xin**; Deng, Jie. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, submitted to **_Physical Review B_**.
+[18] Park, Doyoon; **Deng, Xin***; Deng, Jie*. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, submitted to **_Physical Review B_**.
 
-[17] **Deng, Xin**; Deng, Jie; Walter, Michael; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, submitted to **_Geophysical Research Letters_**.
+[17] **Deng, Xin***; Deng, Jie*; Walter, Michael; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, submitted to **_Geophysical Research Letters_**.
 
-[16] Liu, Cong; **Deng, Xin**; Cohen, Ronald E. “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Science Advances_**.
+[16] Liu, Cong*; **Deng, Xin**; Cohen, Ronald E.* “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Science Advances_**.
 
-[15] Liu, Hao; **Deng, Xin**; Leng, Wei; Wu, Zhongqing; Chu, Risheng; Wang, Xin. “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, submitted to **_Nature Communications_**.
+[15] Liu, Hao*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, submitted to **_Nature Communications_**.
 
-[14] **Deng, Xin**; Wu, Zhongqing; Song, Jian. “Water-Induced Mantle Overturns Leading to the Oxidation of Archean Upper Mantle”, submitted to **_Geophysical Research Letters_**.
+[14] **Deng, Xin**; Wu, Zhongqing*; Song, Jian. “Water-Induced Mantle Overturns Leading to the Oxidation of Archean Upper Mantle”, submitted to **_Geophysical Research Letters_**.
 
 ---
 
 ## Articles — Published / In Press
 
-[13] Wang, Dong; Duan, Longyu; **Deng, Xin**; Wang, Wenzhong; Wu, Zhongqing. “Seismic Signature of the Upper Continental Crust: Implications from the thermoelastic properties of Liebermannite and K-hollandite II”, **_American Mineralogist_**, in press. [https://doi.org/10.2138/am-2024-9562](https://doi.org/10.2138/am-2024-9562)
+[13] Wang, Dong; Duan, Longyu; **Deng, Xin**; Wang, Wenzhong; Wu, Zhongqing*. “Seismic Signature of the Upper Continental Crust: Implications from the thermoelastic properties of Liebermannite and K-hollandite II”, **_American Mineralogist_**, in press. [https://doi.org/10.2138/am-2024-9562](https://doi.org/10.2138/am-2024-9562)
 
-[12] Zhao, Yajie; **Deng, Xin**; Wang, Wenzhong; Wu, Zhongqing; Yuan, Ye. (2025) “Seismic Visibility of carbonated subducted oceanic crust in the lower mantle”, **_Communications Earth & Environment_**, 6, 146. [https://doi.org/10.1038/s43247-025-02128-0](https://doi.org/10.1038/s43247-025-02128-0)
+[12] Zhao, Yajie; **Deng, Xin**; Wang, Wenzhong; Wu, Zhongqing*; Yuan, Ye. (2025) “Seismic Visibility of carbonated subducted oceanic crust in the lower mantle”, **_Communications Earth & Environment_**, 6, 146. [https://doi.org/10.1038/s43247-025-02128-0](https://doi.org/10.1038/s43247-025-02128-0)
 
-[11] Yuan, Ye; Magali, John Keith; **Deng, Xin**; Sun, Daoyuan; Thomas, Christine. (2025) “Mantle discontinuities and reflectors beneath the Arctic Ocean and Aleutian-Alaska subduction zone: Evidence for MORB crust at the top of the lower mantle”, **_Earth and Planetary Science Letters_**, 652, 119199. [https://doi.org/10.1016/j.epsl.2024.119199](https://doi.org/10.1016/j.epsl.2024.119199)
+[11] Yuan, Ye*; Magali, John Keith; **Deng, Xin**; Sun, Daoyuan; Thomas, Christine. (2025) “Mantle discontinuities and reflectors beneath the Arctic Ocean and Aleutian-Alaska subduction zone: Evidence for MORB crust at the top of the lower mantle”, **_Earth and Planetary Science Letters_**, 652, 119199. [https://doi.org/10.1016/j.epsl.2024.119199](https://doi.org/10.1016/j.epsl.2024.119199)
 
-[10] **Deng, Xin**; Chen, Yi-Xiang; Wang, Wenzhong; Li, Yonghui; Xiao, Zicong; Wu, Zhongqing. (2024) “Heavy magnesium isotopic signatures in arc lavas may be attributed to dehydration of subducting hydrated mantle”, **_Communications Earth & Environment_**, 5, 299. [https://doi.org/10.1038/s43247-024-01466-9](https://doi.org/10.1038/s43247-024-01466-9)
+[10] **Deng, Xin**; Chen, Yi-Xiang; Wang, Wenzhong; Li, Yonghui; Xiao, Zicong; Wu, Zhongqing*. (2024) “Heavy magnesium isotopic signatures in arc lavas may be attributed to dehydration of subducting hydrated mantle”, **_Communications Earth & Environment_**, 5, 299. [https://doi.org/10.1038/s43247-024-01466-9](https://doi.org/10.1038/s43247-024-01466-9)
 
-[9] Zhao, Yajie; **Deng, Xin**; Chen, Ling; Wu, Zhongqing. (2024) “Is there a carbonated mid-lithosphere discontinuity in cratons?”, **_Journal of Geophysical Research: Solid Earth_**, 129(6). [https://doi.org/10.1029/2024JB028925](https://doi.org/10.1029/2024JB028925)
+[9] Zhao, Yajie; **Deng, Xin**; Chen, Ling; Wu, Zhongqing*. (2024) “Is there a carbonated mid-lithosphere discontinuity in cratons?”, **_Journal of Geophysical Research: Solid Earth_**, 129(6). [https://doi.org/10.1029/2024JB028925](https://doi.org/10.1029/2024JB028925)
 
-[8] Wang, Dong; Wu, Zhongqing; **Deng, Xin**. (2023) “Thermal conductivity of Fe-bearing bridgmanite and post-perovskite: Implications for the heat flux from the core”, **_Earth and Planetary Science Letters_**, 621, 118368. [https://doi.org/10.1016/j.epsl.2023.118368](https://doi.org/10.1016/j.epsl.2023.118368)
+[8] Wang, Dong; Wu, Zhongqing*; **Deng, Xin**. (2023) “Thermal conductivity of Fe-bearing bridgmanite and post-perovskite: Implications for the heat flux from the core”, **_Earth and Planetary Science Letters_**, 621, 118368. [https://doi.org/10.1016/j.epsl.2023.118368](https://doi.org/10.1016/j.epsl.2023.118368)
 
-[7] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing. (2023) “Compositional and thermal state of the lower mantle from joint 3D inversion with seismic tomography and mineral elasticity”, **_Proceedings of the National Academy of Sciences_**, 120(26). [https://doi.org/10.1073/pnas.2220178120](https://doi.org/10.1073/pnas.2220178120)
+[7] **Deng, Xin**; Xu, Yinhan; Hao, Shangqin; Ruan, Youyi; Zhao, Yajie; Wang, Wenzhong; Ni, Sidao; Wu, Zhongqing*. (2023) “Compositional and thermal state of the lower mantle from joint 3D inversion with seismic tomography and mineral elasticity”, **_Proceedings of the National Academy of Sciences_**, 120(26). [https://doi.org/10.1073/pnas.2220178120](https://doi.org/10.1073/pnas.2220178120)
 
-[6] **Deng, Xin**; Song, Jian; Qian, Wangsheng; Wu, Zhongqing. (2023) “Seismic signals induced by the metasomatism of mantle wedge by siliceous melts: Insights from the elasticity of orthopyroxene at high pressure and temperature”, **_Tectonophysics_**, 846, 229681. [https://doi.org/10.1016/j.tecto.2022.229681](https://doi.org/10.1016/j.tecto.2022.229681)
+[6] **Deng, Xin**; Song, Jian; Qian, Wangsheng; Wu, Zhongqing*. (2023) “Seismic signals induced by the metasomatism of mantle wedge by siliceous melts: Insights from the elasticity of orthopyroxene at high pressure and temperature”, **_Tectonophysics_**, 846, 229681. [https://doi.org/10.1016/j.tecto.2022.229681](https://doi.org/10.1016/j.tecto.2022.229681)
 
-[5] Wang, Dong; Wu, Zhongqing; **Deng, Xin**. (2022) “Thermal Conductivity of Hydrous Wadsleyite Determined by Non-Equilibrium Molecular Dynamics Based on Machine Learning”, **_Geophysical Research Letters_**, 49(22). [https://doi.org/10.1029/2022GL100337](https://doi.org/10.1029/2022GL100337)
+[5] Wang, Dong; Wu, Zhongqing*; **Deng, Xin**. (2022) “Thermal Conductivity of Hydrous Wadsleyite Determined by Non-Equilibrium Molecular Dynamics Based on Machine Learning”, **_Geophysical Research Letters_**, 49(22). [https://doi.org/10.1029/2022GL100337](https://doi.org/10.1029/2022GL100337)
 
-[4] **Deng, Xin**; Luo, Chenxing; Wentzcovitch, Renata M.; Abers, Geoffrey A.; Wu, Zhongqing. (2022) “Elastic Anisotropy of Lizardite at Subduction Zone Conditions”, **_Geophysical Research Letters_**, 49(18). [https://doi.org/10.1029/2022GL099712](https://doi.org/10.1029/2022GL099712)
+[4] **Deng, Xin**; Luo, Chenxing; Wentzcovitch, Renata M.; Abers, Geoffrey A.; Wu, Zhongqing*. (2022) “Elastic Anisotropy of Lizardite at Subduction Zone Conditions”, **_Geophysical Research Letters_**, 49(18). [https://doi.org/10.1029/2022GL099712](https://doi.org/10.1029/2022GL099712)
 
-[3] Zhao, Yajie; Wu, Zhongqing; Hao, Shangqin; Wang, Wenzhong; **Deng, Xin**; Song, Jian. (2022) “Elastic properties of Fe-bearing Akimotoite at mantle conditions: Implications for composition and temperature in lower mantle transition zone”, **_Fundamental Research_**, 2, 570–577. [https://doi.org/10.1016/j.fmre.2021.12.013](https://doi.org/10.1016/j.fmre.2021.12.013)
+[3] Zhao, Yajie; Wu, Zhongqing*; Hao, Shangqin; Wang, Wenzhong; **Deng, Xin**; Song, Jian. (2022) “Elastic properties of Fe-bearing Akimotoite at mantle conditions: Implications for composition and temperature in lower mantle transition zone”, **_Fundamental Research_**, 2, 570–577. [https://doi.org/10.1016/j.fmre.2021.12.013](https://doi.org/10.1016/j.fmre.2021.12.013)
 
-[2] Liu, Cong; Wang, Junjie; **Deng, Xin**; Wang, Xiaomeng; Pickard, Chris J.; Helled, Ravit; Wu, Zhongqing; Wang, Huitian; Xing, Dingyu; Sun, Jian. (2022) “Partially Diffusive Helium–Silica Compound under High Pressure”, **_Chinese Physics Letters_**, 39, 076101. [https://doi.org/10.1088/0256-307X/39/7/076101](https://doi.org/10.1088/0256-307X/39/7/076101)
+[2] Liu, Cong; Wang, Junjie; **Deng, Xin**; Wang, Xiaomeng; Pickard, Chris J.; Helled, Ravit; Wu, Zhongqing; Wang, Huitian; Xing, Dingyu; Sun, Jian*. (2022) “Partially Diffusive Helium–Silica Compound under High Pressure”, **_Chinese Physics Letters_**, 39, 076101. [https://doi.org/10.1088/0256-307X/39/7/076101](https://doi.org/10.1088/0256-307X/39/7/076101)
 
-[1] Luo, Chenxing; **Deng, Xin**; Wang, Wenzhong; Shukla, Gaurav; Wu, Zhongqing; Wentzcovitch, Renata M. (2021) “cij: A Python code for quasiharmonic thermoelasticity”, **_Computer Physics Communications_**, 267, 108067. [https://doi.org/10.1016/j.cpc.2021.108067](https://doi.org/10.1016/j.cpc.2021.108067)
+[1] Luo, Chenxing; **Deng, Xin**; Wang, Wenzhong; Shukla, Gaurav; Wu, Zhongqing; Wentzcovitch, Renata M.* (2021) “cij: A Python code for quasiharmonic thermoelasticity”, **_Computer Physics Communications_**, 267, 108067. [https://doi.org/10.1016/j.cpc.2021.108067](https://doi.org/10.1016/j.cpc.2021.108067)
 
 ---
 
