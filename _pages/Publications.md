@@ -44,7 +44,7 @@ toc_sticky: true
 
 ## Articles — Published / In Press
 
-[13] Wang, Dong; Duan, Longyu; **Deng, Xin**; Wang, Wenzhong; Wu, Zhongqing*. “Seismic Signature of the Upper Continental Crust: Implications from the thermoelastic properties of Liebermannite and K-hollandite II”, **_American Mineralogist_**, in press. [https://doi.org/10.2138/am-2024-9562](https://doi.org/10.2138/am-2024-9562)
+[13] Wang, Dong; Duan, Longyu; **Deng, Xin**; Wang, Wenzhong; Wu, Zhongqing*. (2026) “Seismic Signature of the Upper Continental Crust: Implications from the thermoelastic properties of Liebermannite and K-hollandite II”, **_American Mineralogist_**, 111 (2): 266-276. [https://doi.org/10.2138/am-2024-9562](https://doi.org/10.2138/am-2024-9562)
 
 [12] Zhao, Yajie; **Deng, Xin**; Wang, Wenzhong; Wu, Zhongqing*; Yuan, Ye. (2025) “Seismic Visibility of carbonated subducted oceanic crust in the lower mantle”, **_Communications Earth & Environment_**, 6, 146. [https://doi.org/10.1038/s43247-025-02128-0](https://doi.org/10.1038/s43247-025-02128-0)
 
