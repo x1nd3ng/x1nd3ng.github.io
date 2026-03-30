@@ -85,5 +85,5 @@ redirect_from:
 
 ## Service
 
-- <strong>Peer review</strong> for Communications Earth &amp; Environment (1)  
+- <strong>Peer review</strong> for Communications Earth &amp; Environment (1), Physics of the Earth and Planetary Interiors (1)
 - <strong>Proposal reviewer</strong> (non-panelist) for NSF (1)
