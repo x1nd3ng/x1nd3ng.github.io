@@ -74,6 +74,8 @@ toc_sticky: true
 
 ## Conference Presentations
 
+[33] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2026) “Magma ocean cooling controls the mantle oxidation state”, **_Goldschmidt 2026 Conference_**, Montreal, Canada.
+
 [32] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2025) “Secular cooling of the Magma Ocean Controls Early Planetary Oxidation State”, **_AGU Annual Meeting 2025_**, New Orleans, USA.
 
 [31] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2025) “Secular cooling of the Magma Ocean Controls Early Planetary Oxidation State”, **_The 10th International Symposium on “From Atom to Earth” High-pressure Science_**, Beijing, China.
