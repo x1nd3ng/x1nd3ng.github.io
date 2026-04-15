@@ -78,7 +78,7 @@ toc_sticky: true
 
 [33] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2026) “Magma ocean cooling controls the mantle oxidation state”, **_Goldschmidt 2026 Conference_**, Montreal, Canada.
 
-[32] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2025) “Secular cooling of the Magma Ocean Controls Early Planetary Oxidation State”, **_AGU Annual Meeting 2025_**, New Orleans, USA.
+[32] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2025) “Secular cooling of the Magma Ocean Controls Early Planetary Oxidation State”, **_AGU Annual Meeting 2025_**, New Orleans, USA. (poster)
 
 [31] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2025) “Secular cooling of the Magma Ocean Controls Early Planetary Oxidation State”, **_The 10th International Symposium on “From Atom to Earth” High-pressure Science_**, Beijing, China.
 
@@ -86,7 +86,7 @@ toc_sticky: true
 
 [29] **Deng, Xin**; Zhao, Yajie; Wu, Zhongqing. (2024) “Elasticity of Aragonite under mantle conditions by first-principles calculations”, **_AGU Annual Meeting 2024_**, Washington, USA.
 
-[28] **Deng, Xin**; Chen, Yi-Xiang; Wang, Wenzhong; Li, Yonghui; Xiao, Zicong; Wu, Zhongqing. (2023) “Dehydration of Subducting Hydrated Mantle Revealed by Heavy Mg Isotopes in Arc Lavas”, **_AGU Fall Meeting 2023_**, San Francisco, USA.
+[28] **Deng, Xin**; Chen, Yi-Xiang; Wang, Wenzhong; Li, Yonghui; Xiao, Zicong; Wu, Zhongqing. (2023) “Dehydration of Subducting Hydrated Mantle Revealed by Heavy Mg Isotopes in Arc Lavas”, **_AGU Fall Meeting 2023_**, San Francisco, USA. (poster)
 
 [27] **Deng, Xin**; Chen, Yi-Xiang; Wang, Wenzhong; Li, Yonghui; Xiao, Zicong; Wu, Zhongqing. (2023) “Dehydration of Subducting Oceanic Mantle indicated by Heavy Magnesium Isotopes in Arc Lavas”, **_Annual Meeting of Chinese Geoscience Union 2023_**, Zhuhai, China.
 
