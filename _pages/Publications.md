@@ -36,11 +36,11 @@ toc_sticky: true
 
 [16] **Deng, Xin**; Wu, Zhongqing*; Song, Jian. “Water-Induced Mantle Overturns Leading to the Oxidation of Archean Upper Mantle”, submitted to **_Geophysical Research Letters_**.
 
-[15] **Deng, Xin\***; Deng, Jie*; Walter, Michael; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, submitted to **_Geophysical Research Letters_**.
-
 ---
 
 ## Articles — Published / In Press
+
+[15] **Deng, Xin\***; Deng, Jie*; Walter, Michael; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, **_Geophysical Research Letters_**, in press.
 
 [14] Zhang, Qiwei*; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. “Sublithospheric diamond constraints on the state of deeply subducted slabs”, **_Science Advances_**, in press.
 
