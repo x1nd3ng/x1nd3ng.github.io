@@ -38,7 +38,7 @@ toc_sticky: true
 
 ## Articles — Published / In Press
 
-[16] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, submitted to **_Nature Communications_**.
+[16] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, **_Nature Communications_**, in press.
 
 [15] **Deng, Xin\***; Deng, Jie*; Walter, Michael; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, **_Geophysical Research Letters_**, in press.
 
