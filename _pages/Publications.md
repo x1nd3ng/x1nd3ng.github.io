@@ -40,9 +40,9 @@ toc_sticky: true
 
 [16] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, **_Nature Communications_**, in press.
 
-[15] **Deng, Xin\***; Deng, Jie*; Walter, Michael; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, **_Geophysical Research Letters_**, in press.
+[15] Zhang, Qiwei*; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. “Sublithospheric diamond constraints on the state of deeply subducted slabs”, **_Science Advances_**, in press.
 
-[14] Zhang, Qiwei*; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. “Sublithospheric diamond constraints on the state of deeply subducted slabs”, **_Science Advances_**, in press.
+[14] **Deng, Xin\***; Deng, Jie*; Walter, Michael; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. (2026) “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, **_Geophysical Research Letters_**, 53(10). [https://doi.org/10.1029/2025GL119400](https://doi.org/10.1029/2025GL119400)
 
 [13] Wang, Dong; Duan, Longyu; **Deng, Xin**; Wang, Wenzhong; Wu, Zhongqing*. (2026) “Seismic Signature of the Upper Continental Crust: Implications from the thermoelastic properties of Liebermannite and K-hollandite II”, **_American Mineralogist_**, 111 (2): 266-276. [https://doi.org/10.2138/am-2024-9562](https://doi.org/10.2138/am-2024-9562)
 
