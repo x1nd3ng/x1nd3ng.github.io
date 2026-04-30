@@ -74,15 +74,15 @@ toc_sticky: true
 
 ## Conference Presentations
 
-[34] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2026) “Quantifying Iron Disproportionation in Silicate Melts Using Machine Learning Potentials”, **_24th IMA General Meeting_**, Nanjing, China.
+[34] **Deng, Xin**; Walter, Michael J.; Wu, Zhongqing; Cohen, Ronald E. (2026) “Quantifying Iron Disproportionation in Silicate Melts Using Machine Learning Potentials”, **_24th IMA General Meeting_**, Nanjing, China.
 
-[33] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2026) “Magma ocean cooling controls the mantle oxidation state”, **_Goldschmidt 2026 Conference_**, Montreal, Canada.
+[33] **Deng, Xin**; Walter, Michael J.; Wu, Zhongqing; Cohen, Ronald E. (2026) “Magma ocean cooling controls the mantle oxidation state”, **_Goldschmidt 2026 Conference_**, Montreal, Canada.
 
-[32] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2025) “Secular cooling of the Magma Ocean Controls Early Planetary Oxidation State”, **_AGU Annual Meeting 2025_**, New Orleans, USA. (poster)
+[32] **Deng, Xin**; Walter, Michael J.; Wu, Zhongqing; Cohen, Ronald E. (2025) “Secular cooling of the Magma Ocean Controls Early Planetary Oxidation State”, **_AGU Annual Meeting 2025_**, New Orleans, USA. (poster)
 
-[31] **Deng, Xin**; Walter, Michael; Wu, Zhongqing; Cohen, Ronald E. (2025) “Secular cooling of the Magma Ocean Controls Early Planetary Oxidation State”, **_The 10th International Symposium on “From Atom to Earth” High-pressure Science_**, Beijing, China.
+[31] **Deng, Xin**; Walter, Michael J.; Wu, Zhongqing; Cohen, Ronald E. (2025) “Secular cooling of the Magma Ocean Controls Early Planetary Oxidation State”, **_The 10th International Symposium on “From Atom to Earth” High-pressure Science_**, Beijing, China.
 
-[30] **Deng, Xin**; Zhao, Yajie; Walter, Michael; Wu, Zhongqing. (2025) “Elasticity of Aragonite under mantle conditions: implications for the carbonation of the big mantle wedge”, **_Goldschmidt 2025 Conference_**, Prague, Czech.
+[30] **Deng, Xin**; Zhao, Yajie; Walter, Michael J.; Wu, Zhongqing. (2025) “Elasticity of Aragonite under mantle conditions: implications for the carbonation of the big mantle wedge”, **_Goldschmidt 2025 Conference_**, Prague, Czech.
 
 [29] **Deng, Xin**; Zhao, Yajie; Wu, Zhongqing. (2024) “Elasticity of Aragonite under mantle conditions by first-principles calculations”, **_AGU Annual Meeting 2024_**, Washington, USA.
 
