@@ -24,7 +24,9 @@ toc_sticky: true
 
 ## Articles — Submitted
 
-[21] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. "Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity", submitted to **_Geophysical Research Letters_**.
+[22] **Deng, Xin\***; Walter, Michael J.; Wu, Zhongqing; Cohen, Ronald E. “Cooling of the magma ocean forged Earth’s mantle oxidation state”, submitted to **_Nature_**.
+
+[21] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. “Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity”, submitted to **_Geophysical Research Letters_**.
 
 [20] Liu, Cong\*; **Deng, Xin**; Cohen, Ronald E.* “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Science Advances_**.
 
@@ -36,7 +38,7 @@ toc_sticky: true
 
 [18] Park, Doyoon; **Deng, Xin\***; Deng, Jie*. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, **_Physical Review B_**, in press.
 
-[17] Yuan, Ye*; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. "Revealing the nature of mid-mantle discontinuities through global interrogation of SS precursors versus P-to-S conversions", **_Earth and Planetary Science Letters_**, in press.
+[17] Yuan, Ye*; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. “Revealing the nature of mid-mantle discontinuities through global interrogation of SS precursors versus P-to-S conversions”, **_Earth and Planetary Science Letters_**, in press.
 
 [16] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, **_Nature Communications_**, in press.
 
