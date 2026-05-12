@@ -26,15 +26,15 @@ toc_sticky: true
 
 [21] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. "Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity", submitted to **_Geophysical Research Letters_**.
 
-[20] Park, Doyoon; **Deng, Xin\***; Deng, Jie*. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, submitted to **_Physical Review B_**.
+[20] Liu, Cong\*; **Deng, Xin**; Cohen, Ronald E.* “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Science Advances_**.
 
-[19] Liu, Cong\*; **Deng, Xin**; Cohen, Ronald E.* “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Science Advances_**.
-
-[18] **Deng, Xin**; Wu, Zhongqing*; Song, Jian. “Water-Induced Mantle Overturns Leading to the Oxidation of Archean Upper Mantle”, submitted to **_Geophysical Research Letters_**.
+[19] **Deng, Xin**; Wu, Zhongqing*; Song, Jian. “Water-Induced Mantle Overturns Leading to the Oxidation of Archean Upper Mantle”, submitted to **_Geophysical Research Letters_**.
 
 ---
 
 ## Articles — Published / In Press
+
+[18] Park, Doyoon; **Deng, Xin\***; Deng, Jie*. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, **_Physical Review B_**, in press.
 
 [17] Yuan, Ye*; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. "Revealing the nature of mid-mantle discontinuities through global interrogation of SS precursors versus P-to-S conversions", **_Earth and Planetary Science Letters_**, in press.
 
