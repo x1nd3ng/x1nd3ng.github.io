@@ -42,7 +42,7 @@ toc_sticky: true
 
 [16] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, **_Nature Communications_**, in press.
 
-[15] Zhang, Qiwei*; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. “Sublithospheric diamond constraints on the state of deeply subducted slabs”, **_Science Advances_**, in press.
+[15] Zhang, Qiwei*; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. (2026) “Sublithospheric diamond constraints on the state of deeply subducted slabs”, **_Science Advances_**, 12(20), eadz7447. [https://doi.org/10.1126/sciadv.adz7447](https://doi.org/10.1126/sciadv.adz7447)
 
 [14] **Deng, Xin\***; Deng, Jie*; Walter, Michael J.; Fei, Yingwei; Yang, Jing; Cohen, Ronald E. (2026) “Phase Relations and Melting of SiO<sub>2</sub> Under Mantle Conditions Determined from Machine-Learning Potentials”, **_Geophysical Research Letters_**, 53(9). [https://doi.org/10.1029/2025GL119400](https://doi.org/10.1029/2025GL119400)
 
