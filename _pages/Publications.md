@@ -38,9 +38,9 @@ toc_sticky: true
 
 [18] Park, Doyoon; **Deng, Xin\***; Deng, Jie*. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, **_Physical Review B_**, in press.
 
-[17] Yuan, Ye*; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. “Revealing the nature of mid-mantle discontinuities through global interrogation of SS precursors versus P-to-S conversions”, **_Earth and Planetary Science Letters_**, in press.
+[17] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, **_Nature Communications_**, in press.
 
-[16] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, **_Nature Communications_**, in press.
+[16] Yuan, Ye*; Magali, John Keith; **Deng, Xin**; Rochira, Federica; Jiang, Xiuxuan; Thomas, Christine. (2026) “Revealing the nature of mid-mantle discontinuities through global interrogation of SS precursors versus P-to-S conversions”, **_Earth and Planetary Science Letters_**, 689, 120074. [https://doi.org/10.1016/j.epsl.2026.120074](https://doi.org/10.1016/j.epsl.2026.120074)
 
 [15] Zhang, Qiwei*; Brenker, Frank E.; Timmerman, Suzette; Shirey, Steven B.; Stachel, Thomas; Luth, Robert W.; Locock, Andrew; Stern, Richard A.; Chinn, Ingrid L.; Nestola, Fabrizio; **Deng, Xin**; Pearson, D. Graham. (2026) “Sublithospheric diamond constraints on the state of deeply subducted slabs”, **_Science Advances_**, 12(20), eadz7447. [https://doi.org/10.1126/sciadv.adz7447](https://doi.org/10.1126/sciadv.adz7447)
 
