@@ -36,7 +36,7 @@ toc_sticky: true
 
 ## Articles — Published / In Press
 
-[18] Park, Doyoon; **Deng, Xin\***; Deng, Jie*. “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, **_Physical Review B_**, in press.
+[18] Park, Doyoon; **Deng, Xin\***; Deng, Jie*. (2026) “Melting phase relation of seifertite and pyrite-type SiO<sub>2</sub> determined by machine-learning potentials”, **_Physical Review B_**, 113. [https://doi.org/10.1103/b44t-2x7s](https://doi.org/10.1103/b44t-2x7s)
 
 [17] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. (2026) “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, **_Nature Communications_**, 17. [https://doi.org/10.1038/s41467-026-73919-y](https://doi.org/10.1038/s41467-026-73919-y)
 
