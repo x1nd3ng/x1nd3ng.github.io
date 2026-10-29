@@ -26,15 +26,15 @@ toc_sticky: true
 
 [22] **Deng, Xin\***; Walter, Michael J.; Wu, Zhongqing; Cohen, Ronald E. “Cooling of the magma ocean forged Earth’s mantle oxidation state”, submitted to **_Nature Geoscience_**.
 
-[21] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. “Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity”, submitted to **_Geophysical Research Letters_**.
+[21] Liu, Cong\*; **Deng, Xin**; Cohen, Ronald E.* “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Proceedings of the National Academy of Sciences_**.
 
-[20] Liu, Cong\*; **Deng, Xin**; Cohen, Ronald E.* “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Proceedings of the National Academy of Sciences_**.
-
-[19] **Deng, Xin**; Wu, Zhongqing*; Song, Jian. “Water-Induced Mantle Overturns Leading to the Oxidation of Archean Upper Mantle”, submitted to **_Geophysical Research Letters_**.
+[20] **Deng, Xin**; Wu, Zhongqing*; Song, Jian. “Water-Induced Mantle Overturns Leading to the Oxidation of Archean Upper Mantle”, submitted to **_Geophysical Research Letters_**.
 
 ---
 
 ## Articles — Published / In Press
+
+[19] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. “Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity”, **_Geophysical Research Letters_**, in press.
 
 [18] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. (2026) “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, **_Nature Communications_**, 17, 7133. [https://doi.org/10.1038/s41467-026-73919-y](https://doi.org/10.1038/s41467-026-73919-y)
 
