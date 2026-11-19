@@ -34,7 +34,7 @@ toc_sticky: true
 
 ## Articles — Published / In Press
 
-[19] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. “Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity”, **_Geophysical Research Letters_**, in press.
+[19] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. “Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity”, **_Geophysical Research Letters_**, 53(9). [https://doi.org/10.1029/2026GL123047](https://doi.org/10.1029/2026GL123047)
 
 [18] Liu, Hao\*; **Deng, Xin**; Leng, Wei*; Wu, Zhongqing; Chu, Risheng; Wang, Xin. (2026) “Double volcanic tracks at Hawaii caused by bridgmanite-enriched primordial mantle blobs”, **_Nature Communications_**, 17, 7133. [https://doi.org/10.1038/s41467-026-73919-y](https://doi.org/10.1038/s41467-026-73919-y)
 
