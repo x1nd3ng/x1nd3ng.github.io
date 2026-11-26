@@ -24,15 +24,15 @@ toc_sticky: true
 
 ## Articles — Submitted
 
-[22] **Deng, Xin\***; Walter, Michael J.; Wu, Zhongqing; Cohen, Ronald E. “Cooling of the magma ocean forged Earth’s mantle oxidation state”, submitted to **_Nature Geoscience_**.
+[22] Liu, Cong\*; **Deng, Xin**; Cohen, Ronald E.* “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Proceedings of the National Academy of Sciences_**.
 
-[21] Liu, Cong\*; **Deng, Xin**; Cohen, Ronald E.* “Order–Disorder in Fe–Si Alloys: Implications for Seismic Anisotropy and Thermal Evolution of Earth’s Inner Core”, submitted to **_Proceedings of the National Academy of Sciences_**.
-
-[20] **Deng, Xin**; Wu, Zhongqing*; Song, Jian. “Water-Induced Mantle Overturns Leading to the Oxidation of Archean Upper Mantle”, submitted to **_Geophysical Research Letters_**.
+[21] **Deng, Xin**; Wu, Zhongqing*; Song, Jian. “Water-Induced Mantle Overturns Leading to the Oxidation of Archean Upper Mantle”, submitted to **_Geophysical Research Letters_**.
 
 ---
 
 ## Articles — Published / In Press
+
+[20] **Deng, Xin\***; Walter, Michael J.; Wu, Zhongqing; Cohen, Ronald E. “Cooling of the magma ocean forged Earth’s mantle oxidation state”, **_Nature Geoscience_**, in press.
 
 [19] Zhao, Yajie; Hsu, Han; Wang, Wenzhong; Zhang, Xin; **Deng, Xin**; Chen, Bowen; Wu, Zhongqing*. (2026) “Iron spin crossover in ferromagnesite (Mg,Fe)CO<sub>3</sub> and its link to lower-mantle seismic heterogeneity”, **_Geophysical Research Letters_**, 53(22). [https://doi.org/10.1029/2026GL123047](https://doi.org/10.1029/2026GL123047)
 
